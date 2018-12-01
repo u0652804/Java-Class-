@@ -14,9 +14,9 @@ public class MultiTable {
 			for(int j = 1; j <= 9; j ++)
 			{
 				if(i * j / 10 < 1)
-					System.out.print(i + " x " + j + " =  " + (i * j) + "   ");
+					System.out.print(j + " x " + i + " =  " + (i * j) + "   ");
 				else
-					System.out.print(i + " x " + j + " = " + (i * j) + "   ");
+					System.out.print(j + " x " + i + " = " + (i * j) + "   ");
 			}
 			System.out.println();
 		}
