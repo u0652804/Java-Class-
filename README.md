@@ -1,4 +1,4 @@
 # Java-pritice-MultiTable
 
 # Demo
-![demo](/designDocument/demo.)
+![demo](/image/demo.png)
